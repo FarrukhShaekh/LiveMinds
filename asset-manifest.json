@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LiveMinds/static/css/main.a9e8c2a8.css",
+    "main.js": "/LiveMinds/static/js/main.16fe80cf.js",
+    "static/js/453.8ab44547.chunk.js": "/LiveMinds/static/js/453.8ab44547.chunk.js",
+    "index.html": "/LiveMinds/index.html",
+    "main.a9e8c2a8.css.map": "/LiveMinds/static/css/main.a9e8c2a8.css.map",
+    "main.16fe80cf.js.map": "/LiveMinds/static/js/main.16fe80cf.js.map",
+    "453.8ab44547.chunk.js.map": "/LiveMinds/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e8c2a8.css",
+    "static/js/main.16fe80cf.js"
+  ]
+}
