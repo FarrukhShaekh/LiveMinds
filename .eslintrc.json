@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "react-app",
+    "react-app/jest"
+  ],
+  "overrides": [
+    {
+      "files": [ "public/**/*.js" ],
+      "rules": {
+        "no-unused-vars": "off"
+      }
+    }
+  ]
+}

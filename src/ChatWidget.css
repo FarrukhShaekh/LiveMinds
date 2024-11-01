@@ -1,0 +1,25 @@
+.chat-widget {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: all 0.3s ease;
+}
+
+.open {
+    display: flex;
+}
+
+.floating-icon {
+    width: 60px;
+    height: 60px;
+    background-color: #25D366; /* WhatsApp-like color */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.chat-body {
+    /* Add more styles for your chat body */
+}
